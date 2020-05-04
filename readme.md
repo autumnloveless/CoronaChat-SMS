@@ -2,9 +2,9 @@
 
 ## Introduction
 
-> A friend of mine posted on facebook that they would love an app that would allow them to quickly and anonymously connect to another person for a 10 minute emote session. They were feeling isolated and bottled up due to the coronavirus quarantine. I was too, so I spent 24 hours knocking out a simple text pairing app. Will just text message, you can easily create an account, and join the queue to be paired with someone else. All messaging is done through the provided number, and at the end of 10 minutes (or sooner if you choose) you are unpaired, and can pair with someone else.
+> A friend of mine posted on facebook that they would love an app that would allow them to quickly and anonymously connect to another person for a 10 minute emote session. It seemed like a cool idea, so here it is. With just text message, you can easily create an account, and join the queue to be paired with someone else. All messaging is done through the provided number, and at the end of 10 minutes (or sooner if you choose) you are unpaired, and can pair with someone else.
 
-## Controls
+## How to use
 
 > 
 `!help` - displays a list of available commands
@@ -16,7 +16,7 @@
 <br>`[message text]` - also sends your message to the person you are paired with.
 <br> 
 
-## Installation
+## Installation - If you want to make it yourself
 
 1. `Git clone` and `cd coronachat`
 2. Install dependencies: `npm install` 
