@@ -25,7 +25,6 @@
 5. Update  `.env` with your `postgres` and `twilio` information
 6. Run database migrations `npx sequelize db:migrate`
 7. If running locally, use this to forward the twilio traffic to your localhost: 
-<br>
-`twilio phone-numbers:update "PUT YOUR TWILIO PHONE NUMBER HERE" --sms-url="http://localhost:3300/sms"  `
-8. Run project `npm run start`
-9. Start texting the  `twilio` number to interact!
+8. `twilio phone-numbers:update "PUT YOUR TWILIO PHONE NUMBER HERE" --sms-url="http://localhost:3300/sms"  `
+9. Run project `npm run start`
+10. Start texting the  `twilio` number to interact!
